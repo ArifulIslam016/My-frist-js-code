@@ -1,0 +1,6 @@
+// var a=isNaN('11')
+var a=isNaN('1')
+var a=isNaN(2-15)
+// console.log(b)
+console.log(a)
+console.log(a)
